@@ -1,4 +1,4 @@
-CAlenderSystem Logic is seperated from the UI App.
+CalenderSystem Logic is seperated from the UI App.
 Run the CalanderAPP for console run CalendarSystem or OldCaladnerSystem
 Use the View in upper right corner to navigate Panels
 
